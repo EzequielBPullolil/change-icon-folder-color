@@ -1,8 +1,10 @@
 # Change Folder Color
-> script to change the folder color of the current full icon theme
+> script to change the folder color of the current full icon theme on linux
 
 > [!IMPORTANT]
 > This script modify the actual theme, if you have the same theme installed in the directory `~/.icons` and `/usr/share/icons` this scripts prioritize the installed in `~/.icons`
+
+
 > [!CAUTION]
 > If the theme is installed only in the directory `/usr/share/icons` the script will request root privileges, do this at your own risk
 
