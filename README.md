@@ -23,12 +23,12 @@ To install the script you must clone the repository and make the file `change_fo
 
 *CURL*
 ```
-curl -sSL https://github.com/EzequielBPullolil/change-icon-folder-color/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/EzequielBPullolil/change-icon-folder-color/main/setup.sh | bash
 ```
 
 *WGET*
 ```
-wget -qO- https://github.com/EzequielBPullolil/change-icon-folder-color/setup.sh | bash
+wget -qO- https://raw.githubusercontent.com/EzequielBPullolil/change-icon-folder-color/main/setup.sh | bash
 ```
 
 ## Use
